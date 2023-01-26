@@ -5,5 +5,5 @@
 -CSM
 -HS
 ###SKills
-Cool guy
-git hub expert
+-Cool guy
+-git hub expert
