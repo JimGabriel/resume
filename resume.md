@@ -4,3 +4,6 @@
 ### Education
 -CSM
 -HS
+###SKills
+Cool guy
+git hub expert
